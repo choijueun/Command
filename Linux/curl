@@ -1,4 +1,5 @@
 client URL
+command line 용 data transfer tool 
 
 -X      --request
 : method(POST, GET, PUT, DELETE: CRUD) 기술
