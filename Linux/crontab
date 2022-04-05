@@ -1,5 +1,11 @@
 crontab
 어떤 스크립트를 특정 기간마다 가동시킬 때 사용
 
+crontab -e
+편집
+
 crontab -l
 확인
+
+crontab -r
+삭제
