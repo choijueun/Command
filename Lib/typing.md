@@ -31,3 +31,13 @@ type hint를 언어 차원에서 지원
 > Optional[int]
 
 = Union[int, None]
+
+### Callable
+
+`함수`
+
+...?
+
+### 타입 추상화
+
+> Iterable[int]
