@@ -27,3 +27,7 @@ type hint를 언어 차원에서 지원
 ### Optional
 
 `None` 허용
+
+> Optional[int]
+
+= Union[int, None]
