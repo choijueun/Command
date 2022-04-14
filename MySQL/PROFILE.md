@@ -12,3 +12,10 @@
 profiling_history_size default: 15
 
 min~max: 0 to 100
+
+<br/>
+
+### Profile 조회
+
+    SHOW PROFILES;
+    SHOW PROFILE ALL FOR QUERY (Query_ID)
